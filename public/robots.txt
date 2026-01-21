@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://b7websites-4897ef62.zappy5.app/sitemap.xml

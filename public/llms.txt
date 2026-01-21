@@ -1,0 +1,59 @@
+# b7websites — Generative Engine Optimization Map
+
+> A business services business.
+
+---
+
+## Pages
+
+### Home
+https://b7websites-4897ef62.zappy5.app
+Discover expert USPS post office services that deliver real results. Contact us today for streamlined office solutions!
+
+### Services
+https://b7websites-4897ef62.zappy5.app/services
+Professional UPS post office and mailing services tailored to your business needs. Comprehensive office solutions for small businesses and corporate teams.
+
+### About
+https://b7websites-4897ef62.zappy5.app/about
+Learn about b7websites and our commitment to providing exceptional USPS post office and mailing services to small businesses, freelancers, and corporate teams.
+
+### Contact
+https://b7websites-4897ef62.zappy5.app/contact
+Contact b7websites for expert USPS post office services and office support. Reach out today to discuss your mailing services needs.
+
+## Legal & Policy
+
+### Privacy Policy
+https://b7websites-4897ef62.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://b7websites-4897ef62.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://b7websites-4897ef62.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About b7websites
+b7websites is a business in the business services industry.
+
+## Target Audience
+- Small Business Owners
+- Freelancers and Consultants
+- Corporate Admin Departments
+
+## Industry
+business services
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://b7websites-4897ef62.zappy5.app/sitemap.xml
+- **Robots.txt**: https://b7websites-4897ef62.zappy5.app/robots.txt
